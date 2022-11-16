@@ -4,7 +4,7 @@ This is the repo for the NZ pleb project to onboard merchants to accept Bitcoin.
 
 Main areas are;
 1. Vitally important - Local meetup groups in every area and coordination between groups at the national level. Thanks to James@NZBitcoiners.org for a top notch job with this.
-2. Friendly outgoing pleb volunteers who are able to talk to merchants at a local level and explain the benefits to accepting bitcoin from a merchant perspective. 
+2. Friendly outgoing pleb volunteers who are able to talk to merchants at a local level and explain the benefits to accepting bitcoin from a merchant perspective. Help set the merchant up, how to use Bitcoin and the Lightning network, from a merchant and customer perspective.
  * Another Payment rail, as backup at no additional cost
  * No payment fees (for the merchant)
  * No charge backs
