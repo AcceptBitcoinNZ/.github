@@ -9,6 +9,7 @@ Main areas are;
  * No payment fees (for the merchant)
  * No charge backs
  * Dedicated Bitcoiners who will go out of their way to use your service purely because you accept Bitcoin.
+ * Global network of travelling Bitcoiners who when enough merchants have signed up will come to the country and spend their Bitcoin.
  * Eventually - risk free way of accepting bitcoin (Still in development)
 3. A (in development) non-custodial broker who is able to liquidate lightning BTC -> NZD instantly at a guaranteed price. Allowing merchants to accept bitcoin without having to go near the bitcoin!
 
