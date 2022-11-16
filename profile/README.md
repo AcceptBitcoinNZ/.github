@@ -1,4 +1,6 @@
-This is the repo for the NZ pleb project to onboard merchants to accept Bitcoin. The crux of Accept Bitcoin is to trojan horse the bitcoin in there using the guize of practicality, and then let the merchant / customers orange pill themselves in their own time. This is based on the original idea by bridge2bitcoin.com
+# NZ pleb project to onboard merchants to Accept Bitcoin. 
+
+The crux of Accept Bitcoin is to trojan horse the bitcoin in there using the guize of practicality, and then let the merchant / customers orange pill themselves in their own time. This is based on the original idea by bridge2bitcoin.com
 
 "Normalise don't evangelise"
 
@@ -14,3 +16,14 @@ Main areas are;
 3. A (in development) non-custodial broker who is able to liquidate lightning BTC -> NZD instantly at a guaranteed price. Allowing merchants to accept bitcoin without having to go near the bitcoin!
 
 "Accept it and they will come"
+
+# How Can I Help
+
+We will need
+ * Developers, 
+ * compliance / legal person, 
+ * accountant
+ * Volunteers to talk to merchants
+
+## More info
+https://docs.google.com/document/d/1PumgxPdZNrG7B57-rK7gvwdSTFJa1JOWl_vxpp5axVs/edit#heading=h.1f7n28l7d5c0
