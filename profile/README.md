@@ -1,4 +1,4 @@
-This is the repo for the NZ pleb project to onboard merchants to accept Bitcoin. The crux of Accept Bitcoin is to trojan horse the bitcoin in there using the guize of practicality, and then let the merchant / customers orange pill themselves in their own time
+This is the repo for the NZ pleb project to onboard merchants to accept Bitcoin. The crux of Accept Bitcoin is to trojan horse the bitcoin in there using the guize of practicality, and then let the merchant / customers orange pill themselves in their own time. This is based on the original idea by bridge2bitcoin.com
 
 "Normalise don't evangelise"
 
