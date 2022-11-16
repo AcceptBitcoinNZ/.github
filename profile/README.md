@@ -1,6 +1,6 @@
-Normalise don't evangelise
-
 This is the repo for the NZ pleb project to onboard merchants to accept Bitcoin
+
+"Normalise don't evangelise"
 
 Main areas are;
 1. Vitally important - Local meetup groups in every area and coordination between groups at the national level. Thanks to James@NZBitcoiners.org for a top notch job with this.
@@ -11,3 +11,5 @@ Main areas are;
  * Dedicated Bitcoiners who will go out of their way to use your service purely because you accept Bitcoin.
  * Eventually - risk free way of accepting bitcoin (Still in development)
 3. A (in development) non-custodial broker who is able to liquidate lightning BTC -> NZD instantly at a guaranteed price. Allowing merchants to accept bitcoin without having to go near the bitcoin!
+
+"Accept it and they will come"
