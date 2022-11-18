@@ -23,13 +23,14 @@ We will need
  * Developers, 
  * compliance / legal person, 
  * accountant
- * Volunteers to talk to merchants
+ * Volunteers to talk to merchants (potential for payment incentive for volunteers but needs to be figured out)
  
 ## How do we make money? (to pay for the perpetuation of the business)
  * Exchange takes a trade fee (~0.6%) + withdrawal fees
- * We take a 0.4% fee
+ * We take a 0.4% fee, funds are used to improve or increase services to Bitcoiners NZ wide
 
 ## Benefits to New Zealanders
+ * Increased utility of Bitcoin nationwide.
  * More freedom of choice for payment options.
  * Cheaper transactions
  * Pay using your own favourite wallet or own infrastructure.
