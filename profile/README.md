@@ -1,6 +1,6 @@
 # NZ pleb project to onboard merchants to Accept Bitcoin. 
 
-The crux of Accept Bitcoin is to trojan horse the bitcoin in there using the guize of practicality, and then let the merchant / customers orange pill themselves in their own time. This is based on the original idea by bridge2bitcoin.com
+The crux of Accept Bitcoin is to facilitate the merchant adoption of Accepting Bitcoin by explaining the practicality and ease of use of accepting Bitcoin. Then let the merchant / customers orange pill themselves in their own time. This is based on the original idea by [bridge2bitcoin.com](bridge2bitcoin.com)
 
 "Normalise don't evangelise" - Chris Bridge2Bitcoin
 
