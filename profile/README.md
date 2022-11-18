@@ -2,7 +2,7 @@
 
 The crux of Accept Bitcoin is to trojan horse the bitcoin in there using the guize of practicality, and then let the merchant / customers orange pill themselves in their own time. This is based on the original idea by bridge2bitcoin.com
 
-"Normalise don't evangelise"
+"Normalise don't evangelise" - Chris Bridge2Bitcoin
 
 Main areas are;
 1. Vitally important - Local meetup groups in every area and coordination between groups at the national level. Thanks to James@NZBitcoiners.org and [BitKiwi](https://twitter.com/Bitkiwi1) for a top notch job with this.
@@ -16,21 +16,27 @@ Main areas are;
  * Eventually - risk free way of accepting bitcoin without touching the Bitcoin (Still in development)
 3. A (in development) non-custodial broker who is able to liquidate lightning BTC -> NZD instantly at a guaranteed price. Allowing merchants to accept bitcoin without having to go near the bitcoin!
 
-"Accept it and they will come"
+"Accept it and they will come" - Daniel Prince
 
-# How Can you help?
+# How Can I help?
 
-We will need
+ * Every merchant you are about to make payment at ask "do you accept Bitcoin?"
+ * Spend and replace your Bitcoin whenever possible, do not perpeutate FIAT further by using it any more than neccessary.
+ * Print out the pamphlet that James@NZBitcoiners.org and distribute to interested merchants.
+
+Who We need
+ * Bitcoiners
  * Developers, 
- * compliance / legal person, 
- * accountant
+ * Compliance / legal people, 
+ * Accountant
+ * Marketers
  * Volunteers to talk to merchants (potential for payment incentive for volunteers but needs to be figured out)
  
 ## How do we make money? (to pay for the perpetuation of the business)
  * Exchange takes a trade fee (~0.6%) + withdrawal fees
  * We take a 0.4% fee, funds are used to improve or increase services to Bitcoiners NZ wide
 
-## Benefits to New Zealanders
+## Benefits to Bitcoiners / New Zealanders
  * Increased utility of Bitcoin nationwide.
  * More freedom of choice for payment options.
  * Cheaper transactions
